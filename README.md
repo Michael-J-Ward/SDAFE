@@ -6,5 +6,7 @@
 * Chapter 3
    * [Lab](http://nbviewer.jupyter.org/github/Michael-J-Ward/SDAFE/blob/master/Notebooks/Chapter3/ch3_lab.ipynb)
    * [Exercises](http://nbviewer.jupyter.org/github/Michael-J-Ward/SDAFE/blob/master/Notebooks/Chapter3/ch3_exercises.ipynb)
+* Chapter 4
+   * [Lab](http://nbviewer.jupyter.org/github/Michael-J-Ward/SDAFE/blob/master/Notebooks/Chapter4/ch4_lab.ipynb)
 
 NOTE: The LaTex has trouble rendering in the github notebook viewer. Follow the links to view on [nbviewer.jupyter.org](http://nbviewer.jupyter.org/)
